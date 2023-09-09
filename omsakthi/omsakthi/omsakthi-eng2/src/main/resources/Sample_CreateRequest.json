@@ -1,0 +1,24 @@
+{
+    "invoiceNumber": "2",
+    "invoiceDate": "Mani@1234",
+    "vendorId": "2",
+    "totalAmount": "200",
+    "cgst": "9",
+    "sgst": "9",
+    "particulars": [
+        {
+            "item": "apple",
+            "hsnsac":"hsnsac",
+            "quantity": "1",
+            "rate":"5"
+        },
+        {
+            "item": "mango",
+            "hsnsac":"hsnsac2",
+            "quantity": "2",
+            "rate":"10"
+        }
+    ]
+}
+
+
